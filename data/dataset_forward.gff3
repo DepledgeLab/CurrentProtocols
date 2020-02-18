@@ -1,0 +1,44 @@
+##gff-version 3								
+##sequence-region Ad5 1 35938								
+Ad5	RefSeq	gene	27568	29804	.	+	.	ID=gene.E3A;Name=gene.E3A
+Ad5	RefSeq	mRNA	27568	29804	.	+	.	ID=mRNA.E3.12K;Parent=gene.E3A;Name=E3-12K;class=early
+Ad5	RefSeq	exon	27568	29804	.	+	.	ID=exon1.E3.12K;Parent=mRNA.E3.12K
+Ad5	RefSeq	mRNA	27568	29804	.	+	.	ID=mRNA.E3.CR1;Parent=gene.E3A;Name=E3-CR1;class=early
+Ad5	RefSeq	exon	27568	27939	.	+	.	ID=exon1.E3.CR1;Parent=mRNA.E3.CR1
+Ad5	RefSeq	mRNA	27568	29804	.	+	.	ID=mRNA.E3.19K;Parent=gene.E3A;Name=E3-19K;class=early
+Ad5	RefSeq	exon	27568	27939	.	+	.	ID=exon1.E3.19K;Parent=mRNA.E3.19K
+Ad5	RefSeq	mRNA	27568	29804	.	+	.	ID=mRNA.E3.10K;Parent=gene.E3A;Name=E3-10K;class=early
+Ad5	RefSeq	exon	27568	27939	.	+	.	ID=exon1.E3.10K;Parent=mRNA.E3.10K
+Ad5	RefSeq	gene	27568	30876	.	+	.	ID=gene.E3B;Name=gene.E3B
+Ad5	RefSeq	mRNA	27568	30876	.	+	.	ID=mRNA.E3.RIDa;Parent=gene.E3B;Name=E3-RIDa;class=early
+Ad5	RefSeq	exon	27568	27939	.	+	.	ID=exon1.E3.RIDa;Parent=mRNA.E3.RIDa
+Ad5	RefSeq	mRNA	27568	30876	.	+	.	ID=mRNA.E3.RIDb;Parent=gene.E3B;Name=E3-RIDb;class=early
+Ad5	RefSeq	exon	27568	27939	.	+	.	ID=exon1.E3.RIDb;Parent=mRNA.E3.RIDb
+Ad5	RefSeq	mRNA	27568	30876	.	+	.	ID=mRNA.E3.14K;Parent=gene.E3B;Name=E3-14K;class=early
+Ad5	RefSeq	exon	27568	27939	.	+	.	ID=exon1.E3.14K;Parent=mRNA.E3.14K
+Ad5	RefSeq	CDS	27858	28181	.	+	0	ID=E3.12K;Parent=mRNA.E3.12K;Name=E3.12.5K;product=E3 12.5K;protein_id=AP_000218.1
+Ad5	RefSeq	exon	28299	29804	.	+	.	ID=exon2.E3.CR1;Parent=mRNA.E3.CR1
+Ad5	RefSeq	exon	28299	29804	.	+	.	ID=exon2.E3.19K;Parent=mRNA.E3.19K
+Ad5	RefSeq	exon	28299	28490	.	+	.	ID=exon2.E3.10K;Parent=mRNA.E3.10K
+Ad5	RefSeq	exon	28299	28490	.	+	.	ID=exonL1.E3.10K;Parent=mRNA.L6-E3.10K
+Ad5	RefSeq	exon	28299	28490	.	+	.	ID=exon2.E3.RIDa;Parent=mRNA.E3.RIDa
+Ad5	RefSeq	exon	28299	28490	.	+	.	ID=exon2.E3.RIDb;Parent=mRNA.E3.RIDb
+Ad5	RefSeq	exon	28299	28490	.	+	.	ID=exon2.E3.14K;Parent=mRNA.E3.14K
+Ad5	RefSeq	CDS	28547	28738	.	+	0	ID=E3.CR1;Parent=mRNA.E3.CR1;Name=E3.CR1-alpha;product=E3 CR1-alpha0;protein_id=AP_000219.1
+Ad5	RefSeq	CDS	28735	29217	.	+	0	ID=E3.19K;Parent=mRNA.E3.19K;Name=E3.gp19K;product=E3 gp19K;protein_id=AP_000220.1
+Ad5	RefSeq	exon	29384	29804	.	+	.	ID=exon3.E3.10K;Parent=mRNA.E3.10K
+Ad5	RefSeq	exon	29384	29804	.	+	.	ID=exonL2.E3.10K;Parent=mRNA.L6-E3.10K
+Ad5	RefSeq	exon	29768	30876	.	+	.	ID=exon3.E3.RIDa;Parent=mRNA.E3.RIDa
+Ad5	RefSeq	exon	29872	30876	.	+	.	ID=exon3.E3.RIDb;Parent=mRNA.E3.RIDb
+Ad5	RefSeq	exon	30447	30876	.	+	.	ID=exon3.E3.14K;Parent=mRNA.E3.14K
+Ad5	RefSeq	CDS	29491	29772	.	+	0	ID=E3.10K;Parent=mRNA.E3.10K;Name=E3.10.5K_CR1-beta;product=10.5 kD protein;protein_id=AP_000221.2
+Ad5	RefSeq	CDS	29784	30059	.	+	0	ID=E3.RIDa;Parent=mRNA.E3.RIDa;Name=E3.RIDalpha;product=E3 RID-alpha;protein_id=AP_000222.1
+Ad5	RefSeq	CDS	30062	30460	.	+	0	ID=E3.RIDb;Parent=mRNA.E3.RIDb;Name=E3.RIDbeta;product=E3 RID-beta;protein_id=AP_000223.1
+Ad5	RefSeq	CDS	30453	30839	.	+	0	ID=E3.14K;Parent=mRNA.E3.14K;Name=E3.14.7K;product=E3 14.7K;protein_id=AP_000224.1
+Ad5	RefSeq	CDS	29491	29772	.	+	0	ID=E3.10K;Parent=mRNA.L6-E3.10K;Name=E3.10.5K_CR1-beta;product=10.5 kD protein;protein_id=AP_000221.2
+Ad5	RefSeq	gene	27568	32803	.	+	.	ID=gene.E3-Fiber;Name=gene.E3-Fiber
+Ad5	RefSeq	mRNA	27568	32803	.	+	.	ID=mRNA.E3-Fiber;Parent=gene.E3-Fiber;Name=E3-Fiber;class=novel
+Ad5	RefSeq	exon	27568	27939	.	+	.	ID=exon1.E3-Fiber;Parent=mRNA.E3-Fiber
+Ad5	RefSeq	exon	28299	28490	.	+	.	ID=exon2.E3-Fiber;Parent=mRNA.E3-Fiber
+Ad5	RefSeq	exon	31042	32803	.	+	.	ID=exon3.E3-Fiber;Parent=mRNA.E3-Fiber
+Ad5	RefSeq	CDS	31042	32787	.	+	0	ID=Fiber;Parent=mRNA.E3-Fiber;Name=Fiber;product=fiber;protein_id=AP_000226.1
